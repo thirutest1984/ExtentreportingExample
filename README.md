@@ -1,1 +1,1 @@
-# ExtentreportingExample
+Extent reporting practice using maven
